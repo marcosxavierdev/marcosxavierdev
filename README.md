@@ -4,8 +4,8 @@
 + Microservices with Rest APIs
 + Programming languages: Java
 + Databases: MySQL, Postgres, Mariadb
-+ Java persistence: Jdbc, Jpa / Hibernate
-+ Production: Spring boot, Git, Github, Docker, Swagger, Postman
++ Java persistence: JDBC, JPA / Hibernate
++ Production: Spring Boot, Git, Github, Docker, Swagger, Postman
 
 📫 Right now
 + Reading - Clean Code
