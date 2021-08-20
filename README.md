@@ -8,7 +8,7 @@
 + Production: Spring Boot, Git, Github, Docker, Swagger, Postman
 
 📫 Right now
-+ Reading - Clean Code
++ Reading - Clean Code A Handbook of Agile Software Craftsmanship
 + Studying - DDD Attacking the complexity at the heart of software
 + Studying - Microservices
 
