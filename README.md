@@ -13,6 +13,7 @@
 + Studying - Microservices
 
 :arrow_forward: How to reach me ...
+Linkedin: https://www.linkedin.com/in/marcos-xavier-6b92a650/
 
 <!---
 marcosxavierdev/marcosxavierdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
