@@ -19,7 +19,7 @@ Right now
 + Acquire experience with Typescript and Angular;
 
 How to reach me ...
-+ Linkedin: https://www.linkedin.com/in/marcos-xavier-6b92a650/
++ Linkedin: https://www.linkedin.com/in/marcos-xavier-java/
 
 <!---
 marcosxavierdev/marcosxavierdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
